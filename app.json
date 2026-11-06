@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Daily Expense Tracker",
+    "slug": "daily-expense-tracker",
+    "owner": "austin160927",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.austin.expensetracker",
+      "adaptiveIcon": {
+        "backgroundColor": "#1E4620"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4cf04117-b63c-4cc1-b57a-a04a76baaf66"
+      }
+    }
+  }
+}
